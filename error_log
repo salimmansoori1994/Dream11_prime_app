@@ -1,0 +1,107 @@
+[26-Jan-2018 19:36:02 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 81
+[26-Jan-2018 19:36:04 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 81
+[26-Jan-2018 19:36:09 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 81
+[26-Jan-2018 19:36:12 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 81
+[26-Jan-2018 20:03:30 Etc/GMT] PHP Fatal error:  Unsupported operand types in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 55
+[26-Jan-2018 20:06:37 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 53
+[26-Jan-2018 20:07:54 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 53
+[26-Jan-2018 20:10:46 Etc/GMT] PHP Fatal error:  Unsupported operand types in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 55
+[26-Jan-2018 20:12:05 Etc/GMT] PHP Fatal error:  Unsupported operand types in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 57
+[26-Jan-2018 20:15:19 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 58
+[26-Jan-2018 20:16:06 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 58
+[26-Jan-2018 20:18:33 Etc/GMT] PHP Fatal error:  Unsupported operand types in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 63
+[26-Jan-2018 20:19:11 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 33
+[26-Jan-2018 20:19:41 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 34
+[26-Jan-2018 20:19:54 Etc/GMT] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 34
+[26-Jan-2018 20:20:08 Etc/GMT] PHP Fatal error:  Unsupported operand types in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 63
+[26-Jan-2018 20:20:32 Etc/GMT] PHP Fatal error:  Unsupported operand types in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 63
+[26-Jan-2018 20:21:32 Etc/GMT] PHP Fatal error:  Unsupported operand types in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 63
+[26-Jan-2018 20:22:08 Etc/GMT] PHP Fatal error:  Unsupported operand types in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 63
+[26-Jan-2018 20:22:14 Etc/GMT] PHP Fatal error:  Unsupported operand types in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 63
+[26-Jan-2018 20:31:43 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 55
+[26-Jan-2018 20:32:21 Etc/GMT] PHP Fatal error:  Unsupported operand types in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 57
+[26-Jan-2018 20:37:03 Etc/GMT] PHP Fatal error:  Unsupported operand types in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 61
+[27-Jan-2018 17:18:43 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 52
+[27-Jan-2018 17:19:24 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 52
+[27-Jan-2018 17:20:09 Etc/GMT] PHP Fatal error:  Cannot access empty property in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 52
+[27-Jan-2018 17:21:48 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 52
+[27-Jan-2018 17:22:28 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dreame3o/public_html/d11/application/controllers/Set_api.php on line 53
+[28-Jan-2018 09:48:42 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:48:42 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:48:42 Etc/GMT] PHP Warning:  include(): Failed opening '/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:01 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:01 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:01 Etc/GMT] PHP Warning:  include(): Failed opening '/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:01 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:01 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:01 Etc/GMT] PHP Warning:  include(): Failed opening '/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:01 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:01 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:01 Etc/GMT] PHP Warning:  include(): Failed opening '/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:02 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:02 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:02 Etc/GMT] PHP Warning:  include(): Failed opening '/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:02 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:02 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:02 Etc/GMT] PHP Warning:  include(): Failed opening '/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:02 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:02 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:02 Etc/GMT] PHP Warning:  include(): Failed opening '/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:02 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:02 Etc/GMT] PHP Warning:  include(/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:49:02 Etc/GMT] PHP Warning:  include(): Failed opening '/home/dreame3o/public_html/d11/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/dreame3o/public_html/d11/system/core/Exceptions.php on line 268
+[28-Jan-2018 09:50:24 Etc/GMT] PHP Fatal error:  Call to undefined function phpdefined() in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 09:52:39 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 09:53:31 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 09:55:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 09:55:36 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 09:56:13 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 09:56:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 09:57:30 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 09:58:31 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:02:11 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:02:31 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:02:52 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:02:55 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:02:55 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:02:57 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:02:58 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:03:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:03:55 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:04:05 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:04:07 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:04:10 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[28-Jan-2018 10:04:13 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/Dashboard.php on line 1
+[12-Feb-2018 14:16:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'strtotime' (T_STRING), expecting ')' in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 18
+[12-Feb-2018 14:27:26 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 30
+[12-Feb-2018 14:28:31 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 30
+[12-Feb-2018 14:28:31 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 30
+[12-Feb-2018 14:30:30 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 29
+[12-Feb-2018 14:32:48 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 29
+[12-Feb-2018 14:32:50 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 29
+[12-Feb-2018 14:37:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 29
+[12-Feb-2018 14:38:40 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 29
+[12-Feb-2018 14:39:40 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 29
+[12-Feb-2018 14:40:06 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 29
+[12-Feb-2018 14:40:08 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 29
+[12-Feb-2018 14:40:56 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 29
+[12-Feb-2018 14:42:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 29
+[12-Feb-2018 14:43:09 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 27
+[12-Feb-2018 14:44:31 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 27
+[12-Feb-2018 14:44:59 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 27
+[12-Feb-2018 14:48:45 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 27
+[12-Feb-2018 14:49:30 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 27
+[12-Feb-2018 14:54:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 27
+[12-Feb-2018 14:54:27 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 27
+[12-Feb-2018 14:54:44 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 27
+[12-Feb-2018 14:55:27 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 27
+[12-Feb-2018 14:57:07 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dreame3o/public_html/d11/application/controllers/All_user.php on line 27
+[21-May-2019 06:44:43] PHP Parse error:  syntax error, unexpected T_CONST in /home/dreame3o/public_html/d11/system/core/CodeIgniter.php on line 58
+[21-May-2019 06:44:46] PHP Parse error:  syntax error, unexpected T_CONST in /home/dreame3o/public_html/d11/system/core/CodeIgniter.php on line 58
+[22-Jun-2019 17:13:51] PHP Parse error:  syntax error, unexpected T_CONST in /home/dreame3o/public_html/d11/system/core/CodeIgniter.php on line 58
+[22-Jun-2019 17:14:58] PHP Parse error:  syntax error, unexpected T_CONST in /home/dreame3o/public_html/d11/system/core/CodeIgniter.php on line 58
+[09-Aug-2019 12:26:40] PHP Parse error:  syntax error, unexpected T_CONST in /home/dreame3o/public_html/d11/system/core/CodeIgniter.php on line 58
+[09-Aug-2019 12:26:52] PHP Parse error:  syntax error, unexpected T_CONST in /home/dreame3o/public_html/d11/system/core/CodeIgniter.php on line 58
+[09-Aug-2019 12:26:53] PHP Parse error:  syntax error, unexpected T_CONST in /home/dreame3o/public_html/d11/system/core/CodeIgniter.php on line 58
+[09-Aug-2019 12:27:05] PHP Parse error:  syntax error, unexpected T_CONST in /home/dreame3o/public_html/d11/system/core/CodeIgniter.php on line 58
+[09-Aug-2019 12:27:14] PHP Parse error:  syntax error, unexpected T_CONST in /home/dreame3o/public_html/d11/system/core/CodeIgniter.php on line 58
